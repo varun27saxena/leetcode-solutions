@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0867-transpose-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
