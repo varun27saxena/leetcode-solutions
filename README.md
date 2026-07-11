@@ -10,6 +10,7 @@
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/varun27saxena/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -23,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/varun27saxena/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -31,11 +33,13 @@
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +61,12 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
