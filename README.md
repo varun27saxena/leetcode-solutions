@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
