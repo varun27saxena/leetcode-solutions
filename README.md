@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/varun27saxena/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
