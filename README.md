@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Matrix
@@ -63,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
 |  |
@@ -75,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/varun27saxena/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
