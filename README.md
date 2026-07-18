@@ -67,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
