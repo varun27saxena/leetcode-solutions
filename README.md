@@ -46,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Matrix
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0205-isomorphic-strings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/varun27saxena/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/varun27saxena/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/varun27saxena/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -99,6 +103,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/varun27saxena/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +112,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
