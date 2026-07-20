@@ -37,6 +37,7 @@
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/varun27saxena/leetcode-solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/varun27saxena/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -96,6 +97,7 @@
 | [0205-isomorphic-strings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/varun27saxena/leetcode-solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/varun27saxena/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0767-reorganize-string) |
