@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varun27saxena/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/varun27saxena/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varun27saxena/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
