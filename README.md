@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/varun27saxena/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/varun27saxena/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,6 +43,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/varun27saxena/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/varun27saxena/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/varun27saxena/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varun27saxena/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varun27saxena/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/varun27saxena/leetcode-solutions/tree/master/0443-string-compression) |
