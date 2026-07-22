@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varun27saxena/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/varun27saxena/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/varun27saxena/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varun27saxena/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/varun27saxena/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/varun27saxena/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varun27saxena/leetcode-solutions/tree/master/0242-valid-anagram) |
